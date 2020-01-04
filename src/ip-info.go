@@ -1,3 +1,10 @@
+//
+// IP Info
+// Author: Afaan Bilal
+// URL: afaan.me
+// Copyright (c) 2020
+//
+
 package main
 
 import (
