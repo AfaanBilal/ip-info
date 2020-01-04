@@ -6,6 +6,12 @@ Author URL: **[Google+](https://google.com/+AfaanBilal)**
 
 ## Introduction
 **IP Info** is a small program written in Go that displays some information about an IP address.  
+
+To run:
+````
+go run src/ip-info.go
+````
+
 Example Response:
 ````
 IP:           1.1.1.1
