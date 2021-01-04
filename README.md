@@ -1,7 +1,7 @@
 IP Info
 =======
 
-Author: **[Afaan Bilal](https://afaan.me)**
+Author: **[Afaan Bilal](https://afaan.dev)**
 
 ## Introduction
 **IP Info** is a small program written in Go that displays some information about an IP address.  
